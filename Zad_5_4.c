@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<math.h>
-
+//Autor: Krystian Kręcik
 void kopiuj(const char napis[], char tab[]) {
 	while (*napis != '\0')
 		*tab++ = *napis++;
